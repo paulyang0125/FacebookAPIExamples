@@ -13,7 +13,9 @@ HOWTO
 ----------------
 
 1. 下載整個git
+ex. git clone https://github.com/paulyang0125/FacebookAPIExamples.git
 2. 執行ipython notebook
+ex. root#ipython notebook
 3. 執行Facebook API操作.ipynb
 
 Enjoy!!
